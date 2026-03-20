@@ -36,4 +36,4 @@ jobs:
           context: .
           file: ./Dockerfile   # specify path if not in root
           push: true
-          tags: your-dockerhub-username/task-app:latest
+          tags: sasibalaji/task-app:latest
